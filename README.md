@@ -18,3 +18,10 @@ Proyecto desarrollado en Go que utiliza el algoritmo K-Nearest Neighbors (KNN) p
 
 ```bash
 go run main.go
+
+
+## Autor
+
+Adriana Aguilar Morales  
+Ingeniería en Tecnologías de la Información y Comunicación (TIC)  
+Universidad Tecnológica
